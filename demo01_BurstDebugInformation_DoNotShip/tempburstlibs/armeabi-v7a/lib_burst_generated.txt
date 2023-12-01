@@ -16,7 +16,6 @@ Library: C:\Users\hasanali\Documents\Project\both market\Temp\BurstOutput\tempbu
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=Unity.TextMeshPro;
---assembly-defines=Purchasing.Common;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.2D.Animation.Runtime;
